@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ELISA+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Bella+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
-      <img src="https://i.ibb.co/7Sm5rsy/bg.jpg">
+      <img src="https://i.ibb.co/NFBPWcY/bg.jpg">
     <P align="left"
     <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha" alt="">
     </P>
@@ -10,11 +10,11 @@
       <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Voice+Suported+Duleepha" alt="">
       </P>
         
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
+##  Queen Bella Team - *[ Since 2021 ]*
 
-| <a href="https://amdaniwasa.com"><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href="https://sasmitha-ashinsana.vercel.app/"><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80></a> |  |
+| <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80></a> |  |
 |---|---|---|
-| **[Sadeesha Tharumin](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[Black Amda]* | **[Duleepha](https://github.com/sasmeee)**</br>Co-Admin/Developer
+| **[Sadeesha Tharumin](https://github.com/sadiyamin)<br>Founder & Developer</br>*M.R Sadeesha* | **[Duleepha](https://github.com/tharumin)**</br>Voice Suported<br>*M.S Duleepha*</br>
 
 
 ## License
