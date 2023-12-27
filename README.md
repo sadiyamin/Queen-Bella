@@ -1,2 +1,0 @@
-# Elisa
-Whatsapp User Bot
