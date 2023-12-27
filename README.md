@@ -1,5 +1,4 @@
-<p align="center"
-  font-size="50px">
+<p align="center" size="100">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Queen+Bella+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
@@ -14,7 +13,7 @@
         
 ##  Queen Bella Team - *[ Since 2021 ]*
 
-| <a href=""><img src="https://i.ibb.co/mSPVVJp/20231113-234253-01.jpg" width=100 height=120></a> | <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=100 height=120 ></a> |  |
+| <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80 ></a> |  |
 |---|---|---|
 | *[Sadeesha Tharumin](https://github.com/sadiyamin)*<br>Founder & Developer</br>*M.R Sadeesha* | *[Duleepha](https://github.com/tharumin)*</br>Voice Suported<br>*M.S Duleepha*</br>
 
