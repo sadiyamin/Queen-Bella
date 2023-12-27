@@ -1,6 +1,8 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ELISA+WHATSAPP+BOT" alt="">
 </p>
+    <p align="center">
+      <img src="https://i.ibb.co/7Sm5rsy/bg.jpg">
     <P align="left"
     <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha" alt="">
     </P>
