@@ -1,6 +1,6 @@
 <p align="center"
   font-size="50px">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Bella+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Queen+Bella+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
       <img src="https://i.ibb.co/NFBPWcY/bg.jpg">
