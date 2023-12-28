@@ -10,8 +10,9 @@
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
 </p>
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
-<details>
+      Queen Bella whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+   
+ <details>
 
 <summary>Clik Me</summary>
 
@@ -32,4 +33,4 @@
 | **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.R.Duleepha]* |
 
 
-# <h5 style="color:red;">Thank You 🐣</h5>
+# <h5> <font color="red"> Thank You 🐣</h5>
