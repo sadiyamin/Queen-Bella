@@ -4,6 +4,16 @@
     <p align="center">
       <img src="https://i.ibb.co/NFBPWcY/bg.jpg" width="350" height="350">
     </p>
+<details>
+
+<summary>Clik Me</summary>
+
+## Coming Soon
+
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
+</p>
+ 
+</details>
         
 ## 👸🏻 Queen Bella Team (Min Tech) *[ Since 2021 ]*
 
