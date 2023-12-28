@@ -30,7 +30,7 @@
 
  | <a href="https://amdaniwasa.com"><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href="https://sasmitha-ashinsana.vercel.app/"><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80></a> |
 |---|---|
-| **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.R.Duleepha]* |
+| **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.S.Duleepha]* |
 
 
 # <h5> <font color="red"> Thank You 🐣</h5>
