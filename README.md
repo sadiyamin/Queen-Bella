@@ -4,8 +4,8 @@
     <p align="center">
       <img src="https://i.ibb.co/NFBPWcY/bg.jpg" width="350" height="350">
  </p>
-   # 
-Queen elisa whatsapp bot is,
+  
+# Queen Bella whatsapp bot is,
 
       Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 <details>
