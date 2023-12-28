@@ -14,12 +14,7 @@
       </p>
 
 | <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | 
-<P align="left"
-    <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha" alt="">
-    </P> <p align="left">
 <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80 ></a> |
-<p align="left">
-      <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Voice+Suported+Duleepha" alt="">
   |
 |---|---|---|
 | *[Sadeesha Tharumin](https://github.com/sadiyamin)*<br>Founder & Developer</br>*M.R Sadeesha* | *[Duleepha](https://github.com/tharumin)*</br>Voice Suported<br>*M.S Duleepha*</br>
