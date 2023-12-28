@@ -22,6 +22,7 @@
  
 </details>
 
+  #### ```TOTAL PROFILE VIEWS 🕊️```
 ![Visitor Count](https://profile-counter.glitch.me/Sadeesha/count.svg)
         
 ## 👸🏻 Queen Bella Team (Min Tech) *[ Since 2021 ]*
@@ -31,9 +32,4 @@
 | **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.R.Duleepha]* |
 
 
-## License
-This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
-
-## Disclaimer
-`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+# <h5 style="color:red;">Thank You 🐣</h5>
