@@ -10,7 +10,7 @@
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
 </p>
 
-      Queen Bella whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Queen Bella whatsapp bot is an easy to use whatsapp robot.   |  Queen Bella whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
    
  <details>
 
