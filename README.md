@@ -13,11 +13,9 @@
       <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Voice+Suported+Duleepha" alt="">
       </p>
 
-| <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | 
-| <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80 ></a> |
-
+| <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80></a> |
 |---|---|---|
-| *[Sadeesha Tharumin](https://github.com/sadiyamin)*<br>Founder & Developer</br>*M.R Sadeesha* | *[Duleepha](https://github.com/tharumin)*</br>Voice Suported<br>*M.S Duleepha*</br>
+| **[Sadeesha](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha](https://github.com/sasmeee)**</br>Voice Suported | </br>*[M.S.Duleepha]*|
 
 
 ## License
