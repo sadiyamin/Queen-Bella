@@ -2,7 +2,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Queen+Bella+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
-      <img src="https://i.ibb.co/NFBPWcY/bg.jpg" width="350" height="350">
+      <img src="https://i.ibb.co/NFBPWcY/bg.jpg" width="250" height="250">
  </p>
   
 # Queen Bella whatsapp bot is,
