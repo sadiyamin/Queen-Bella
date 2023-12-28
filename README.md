@@ -6,11 +6,11 @@
     </p>
 <details>
 
-<summary>Clik Me</summary>
+<summary>**Clik Me**</summary>
 
 ## Coming Soon
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
 </p>
  
 </details>
