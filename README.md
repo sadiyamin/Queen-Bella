@@ -8,7 +8,7 @@
 
 <summary>**Clik Me**</summary>
 
-## Coming Soon
+## Pakada Balanne 😅
 
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
 </p>
