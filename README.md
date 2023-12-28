@@ -7,6 +7,9 @@
   
 # Queen Bella whatsapp bot is,
 
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
+</p>
+
       Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 <details>
 
@@ -18,6 +21,8 @@
 </p>
  
 </details>
+
+![Visitor Count](https://profile-counter.glitch.me/Sadeesha/count.svg)
         
 ## 👸🏻 Queen Bella Team (Min Tech) *[ Since 2021 ]*
 
