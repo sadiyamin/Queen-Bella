@@ -5,7 +5,7 @@
       <img src="https://i.ibb.co/NFBPWcY/bg.jpg" width="250" height="250">
  </p>
   
-# Queen Bella whatsapp bot is,
+# `Queen Bella whatsapp bot is,`
 
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Coming+Soon" alt="">
 </p>
